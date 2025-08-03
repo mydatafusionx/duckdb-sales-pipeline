@@ -1,0 +1,11 @@
+id_produto,nome,categoria,preco,custo,data_lancamento
+1,Notebook i5,Eletrônicos,3500.00,2800.00,2022-01-10
+2,Smartphone X,Eletrônicos,2500.00,2000.00,2022-02-15
+3,Mesa Escritório,Móveis,1200.00,800.00,2022-03-20
+4,Cadeira Gamer,Móveis,1500.00,1000.00,2022-04-05
+5,Monitor 24",Eletrônicos,1200.00,900.00,2022-05-12
+6,Teclado Mecânico,Acessórios,350.00,250.00,2022-06-18
+7,Mouse Sem Fio,Acessórios,180.00,120.00,2022-07-22
+8,Headphone Bluetooth,Áudio,450.00,300.00,2022-08-30
+9,Webcam Full HD,Eletrônicos,300.00,200.00,2022-09-14
+10,Suporte Notebook,Acessórios,150.00,80.00,2022-10-25

@@ -1,0 +1,12 @@
+id_cliente,nome,email,estado,cidade,data_cadastro
+1,João Silva,joao@email.com,SP,São Paulo,2022-01-15
+2,Maria Santos,maria@email.com,RJ,Rio de Janeiro,2022-02-20
+3,Pedro Oliveira,pedro@email.com,MG,Belo Horizonte,2022-03-10
+4,Ana Costa,ana@email.com,SP,Campinas,2022-04-05
+5,Carlos Pereira,carlos@email.com,RS,Porto Alegre,2022-05-12
+6,Juliana Almeida,juliana@email.com,PR,Curitiba,2022-06-18
+7,Fernando Lima,fernando@email.com,BA,Salvador,2022-07-22
+8,Patrícia Rocha,patricia@email.com,PE,Recife,2022-08-30
+9,Rodrigo Santos,rodrigo@email.com,CE,Fortaleza,2022-09-14
+10,Amanda Costa,amanda@email.com,DF,Brasília,2022-10-25
+11,Lucas Silva,lucas@email.com,SP,São Paulo,2022-11-15
